@@ -22,3 +22,4 @@ To start this project run:
   - form in createTaskModal,
   - addTask* in useTasks hook and the api call in api/index.js 
 *after adding a task it must show in project page
+
